@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafa Rocha, criadora de conteúdo de programação e tecnologia!
+## Oiii eu sou a Rafa, apaixonada por programação e dev full stack nas horas vagas :)
 <div align="center">
   <a href="https://github.com/rafazuinrocha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafazuinrocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
